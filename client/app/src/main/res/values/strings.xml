@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weird App</string>
+    <string name="title_home">Home</string>
+    <string name="title_generator">Generator</string>
+    <string name="main_activity_title">Main activity</string>
+    <string name="generator_fragment_title">It\'s a password temporary link generator</string>
+    <string name="generator_fragment_text">Just do it!</string>
+    <string name="home_fragment_title">It\'s a HOME fragment!!</string>
+    <string name="home_fragment_text">Heyya! Here u can find some tools and be happy</string>
+    <string name="home_ip_field">Enter server IP address</string>
+    <string name="generator_password_field">Paste tour password here..</string>
+    <string name="generator_link_field">https://demo.link</string>
+</resources>
